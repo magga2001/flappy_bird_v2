@@ -1,0 +1,18 @@
+/Build/Fapping_bird.framework.js.gz
+  Content-Type: application/javascript
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/Build/Fapping_bird.data.gz
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/Build/Fapping_bird.wasm.gz
+  Content-Type: application/wasm
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/Build/Fapping_bird.loader.js
+  Content-Type: application/javascript
+  Cache-Control: max-age=31536000
